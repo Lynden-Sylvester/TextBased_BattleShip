@@ -10,7 +10,7 @@ You can quite early by typing "q"
 
 At the end of the game you will get a statistics report displaying:
 
-Shots fired
+- Shots fired
 - Hits
 - Misses
 - Accuracy
